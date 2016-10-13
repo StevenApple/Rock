@@ -1,0 +1,21 @@
+PODS:
+  - CrashlyticsFramework (2.2.10)
+  - FXForms (1.2.14)
+  - OpenSSL-Universal (1.0.1.k)
+  - pjsip (2.3.0.7):
+    - OpenSSL-Universal (= 1.0.1.k)
+
+DEPENDENCIES:
+  - CrashlyticsFramework (~> 2.2)
+  - FXForms (~> 1.2)
+  - pjsip (~> 2.3)
+
+SPEC CHECKSUMS:
+  CrashlyticsFramework: 5b7a9fb3d94124e3c20a9b10f93244706cfdb0f1
+  FXForms: 724500c0c3f3eb3ba1004b3b83abcee55d3daf18
+  OpenSSL-Universal: 5b864c8eb334c8e78f44e4b2eb294ee2c1891c23
+  pjsip: 786cea9364ae5c4a2c02fea7b52d3b36b4eeeb95
+
+PODFILE CHECKSUM: 1a6cb39d29df619c7cb71cf574d79afea20cabf5
+
+COCOAPODS: 1.0.1

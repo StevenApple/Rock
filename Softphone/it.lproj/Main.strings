@@ -1,0 +1,244 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "099-Le-t8f"; */
+"099-Le-t8f.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "9 wxyz"; ObjectID = "0fS-uq-oZt"; */
+"0fS-uq-oZt.normalTitle" = "9 wxyz";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "1IU-qb-aQ2"; */
+"1IU-qb-aQ2.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "*"; ObjectID = "1NV-FF-Quw"; */
+"1NV-FF-Quw.normalTitle" = "*";
+
+/* Class = "IBUIBarButtonItem"; title = "Send"; ObjectID = "3sk-5W-TY6"; */
+"3sk-5W-TY6.title" = "Invia";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4J1-Dg-puk"; */
+"4J1-Dg-puk.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Hang up"; ObjectID = "4KT-XT-0bH"; */
+"4KT-XT-0bH.normalTitle" = "Rifiuta";
+
+/* Class = "IBUITextField"; placeholder = "Type your personal message here..."; ObjectID = "4iV-JB-XBl"; */
+"4iV-JB-XBl.placeholder" = "Imposta messaggio personale...";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5Vc-ui-hPc"; */
+"5Vc-ui-hPc.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "61w-lW-oLs"; */
+"61w-lW-oLs.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "6lA-z6-1l4"; */
+"6lA-z6-1l4.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "72L-As-RDA"; */
+"72L-As-RDA.text" = "Date";
+
+/* Class = "IBUIButton"; normalTitle = "hold"; ObjectID = "7nN-6f-zYd"; */
+"7nN-6f-zYd.normalTitle" = "in attesa";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "9Ee-eo-Xeu"; */
+"9Ee-eo-Xeu.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "3 def"; ObjectID = "9xf-h5-Ubh"; */
+"9xf-h5-Ubh.normalTitle" = "3 def";
+
+/* Class = "IBUIButton"; normalTitle = "3 def"; ObjectID = "Adw-rl-xsZ"; */
+"Adw-rl-xsZ.normalTitle" = "3 def";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "Azo-8O-rNw"; */
+"Azo-8O-rNw.text" = "Date";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "BHs-in-FaL"; */
+"BHs-in-FaL.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BxF-Ut-E8Q"; */
+"BxF-Ut-E8Q.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DBz-RL-g32"; */
+"DBz-RL-g32.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Db8-na-0KB"; */
+"Db8-na-0KB.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Settings"; ObjectID = "E5j-Ve-hyB"; */
+"E5j-Ve-hyB.title" = "Impostazioni";
+
+/* Class = "IBUITabBarItem"; title = "Send FAX"; ObjectID = "EaA-ss-43A"; */
+"EaA-ss-43A.title" = "Invio Fax";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Fwt-Qs-j10"; */
+"Fwt-Qs-j10.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "G6T-2f-BI5"; */
+"G6T-2f-BI5.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Tap to change your avatar"; ObjectID = "GDh-WC-zqr"; */
+"GDh-WC-zqr.text" = "Tocca per cambiare la tua immagine";
+
+/* Class = "IBUILabel"; text = "Failed"; ObjectID = "IVU-Gq-l6F"; */
+"IVU-Gq-l6F.text" = "Failed";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "IlC-jq-MC0"; */
+"IlC-jq-MC0.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "JNX-KI-evV"; */
+"JNX-KI-evV.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Jcw-Xk-PBq"; */
+"Jcw-Xk-PBq.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Outgoing"; ObjectID = "Kac-yx-Hn6"; */
+"Kac-yx-Hn6.text" = "Outgoing";
+
+/* Class = "IBUILabel"; text = "Initializing..."; ObjectID = "LJZ-BY-xGj"; */
+"LJZ-BY-xGj.text" = "Inizializzazione...";
+
+/* Class = "IBUIButton"; normalTitle = "4 ghi"; ObjectID = "LON-Pa-V5L"; */
+"LON-Pa-V5L.normalTitle" = "4 ghi";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Lfq-Dg-b7Q"; */
+"Lfq-Dg-b7Q.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "6 mno"; ObjectID = "MPZ-Qi-Afl"; */
+"MPZ-Qi-Afl.normalTitle" = "6 mno";
+
+/* Class = "IBUIButton"; normalTitle = "2 abc"; ObjectID = "Muf-l9-qiU"; */
+"Muf-l9-qiU.normalTitle" = "2 abc";
+
+/* Class = "IBUIButton"; normalTitle = "Answer"; ObjectID = "O4L-HE-bkf"; */
+"O4L-HE-bkf.normalTitle" = "Rispondi";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "PZb-sQ-DNZ"; */
+"PZb-sQ-DNZ.text" = "Date";
+
+/* Class = "IBUIButton"; normalTitle = "Call"; ObjectID = "PtQ-aa-2cZ"; */
+"PtQ-aa-2cZ.normalTitle" = "Chiama";
+
+/* Class = "IBUITabBarItem"; title = "Telephone"; ObjectID = "RaZ-xk-pfm"; */
+"RaZ-xk-pfm.title" = "Telefono";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "Rf0-t7-V00"; */
+"Rf0-t7-V00.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "S7h-j0-R2y"; */
+"S7h-j0-R2y.text" = "Date";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "U6t-aq-rBf"; */
+"U6t-aq-rBf.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "9 wxyz"; ObjectID = "UPg-DC-wKM"; */
+"UPg-DC-wKM.normalTitle" = "9 wxyz";
+
+/* Class = "IBUILabel"; text = "Missed"; ObjectID = "Vnu-qp-zZC"; */
+"Vnu-qp-zZC.text" = "Missed";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "VtR-yR-Boq"; */
+"VtR-yR-Boq.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Unknown"; ObjectID = "Ws9-Q9-adi"; */
+"Ws9-Q9-adi.text" = "Sconosciuto";
+
+/* Class = "IBUIButton"; normalTitle = "#"; ObjectID = "Wwj-hI-59V"; */
+"Wwj-hI-59V.normalTitle" = "#";
+
+/* Class = "IBUIButton"; normalTitle = "6 mno"; ObjectID = "YCG-Lg-LqF"; */
+"YCG-Lg-LqF.normalTitle" = "6 mno";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "ZjW-sX-Lvw"; */
+"ZjW-sX-Lvw.normalTitle" = "Cancella";
+
+/* Class = "IBUILabel"; text = "unknown"; ObjectID = "a0M-13-4Gm"; */
+"a0M-13-4Gm.text" = "sconosciuto";
+
+/* Class = "IBUILabel"; text = "Incoming"; ObjectID = "bO3-66-EPb"; */
+"bO3-66-EPb.text" = "Incoming";
+
+/* Class = "IBUIButton"; normalTitle = "0"; ObjectID = "cAE-ui-YGX"; */
+"cAE-ui-YGX.normalTitle" = "0";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "cF8-0G-5Os"; */
+"cF8-0G-5Os.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Messages"; ObjectID = "eNm-n5-USk"; */
+"eNm-n5-USk.title" = "Messaggi";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "fOo-qk-h8n"; */
+"fOo-qk-h8n.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "gNK-Jc-lJP"; */
+"gNK-Jc-lJP.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "7 pqrs"; ObjectID = "hvG-tL-k6M"; */
+"hvG-tL-k6M.normalTitle" = "7 pqrs";
+
+/* Class = "IBUIButton"; normalTitle = "mute"; ObjectID = "jAS-1N-DgG"; */
+"jAS-1N-DgG.normalTitle" = "muto";
+
+/* Class = "IBUIButton"; normalTitle = "*"; ObjectID = "jNh-50-wXi"; */
+"jNh-50-wXi.normalTitle" = "*";
+
+/* Class = "IBUINavigationItem"; title = "Messages"; ObjectID = "jTx-Xl-inR"; */
+"jTx-Xl-inR.title" = "Messaggi";
+"Th0-0w-SBt.title" = "Messaggi";
+
+/* Class = "IBUIButton"; normalTitle = "1"; ObjectID = "k3h-2i-eSo"; */
+"k3h-2i-eSo.normalTitle" = "1";
+
+/* Class = "IBUIButton"; normalTitle = "4 ghi"; ObjectID = "khV-Sn-RTD"; */
+"khV-Sn-RTD.normalTitle" = "4 ghi";
+
+/* Class = "IBUIButton"; normalTitle = "1"; ObjectID = "lKx-I0-COa"; */
+"lKx-I0-COa.normalTitle" = "1";
+
+/* Class = "IBUIButton"; normalTitle = "7 pqrs"; ObjectID = "lqq-nH-S7d"; */
+"lqq-nH-S7d.normalTitle" = "7 pqrs";
+
+/* Class = "IBUITabBarItem"; title = "Contacts"; ObjectID = "mFB-fO-U0n"; */
+"mFB-fO-U0n.title" = "Contatti";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "nEp-or-9Ma"; */
+"nEp-or-9Ma.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "pAF-9Z-efb"; */
+"pAF-9Z-efb.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ppE-li-0Hi"; */
+"ppE-li-0Hi.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "#"; ObjectID = "qnN-gW-8WU"; */
+"qnN-gW-8WU.normalTitle" = "#";
+
+/* Class = "IBUILabel"; text = "Lagel"; ObjectID = "seK-mx-gb4"; */
+"seK-mx-gb4.text" = "Lagel";
+
+/* Class = "IBUIButton"; normalTitle = "8 tuv"; ObjectID = "uaG-6J-bH2"; */
+"uaG-6J-bH2.normalTitle" = "8 tuv";
+
+/* Class = "IBUIButton"; normalTitle = "transfer"; ObjectID = "ugh-Yb-PAb"; */
+"ugh-Yb-PAb.normalTitle" = "trasferisci";
+
+/* Class = "IBUIButton"; normalTitle = "dial pad"; ObjectID = "v5R-mi-hFF"; */
+"v5R-mi-hFF.normalTitle" = "tastierino";
+
+/* Class = "IBUIButton"; normalTitle = "5 jkl"; ObjectID = "vk8-qy-JTJ"; */
+"vk8-qy-JTJ.normalTitle" = "5 jkl";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "wEq-tV-GVZ"; */
+"wEq-tV-GVZ.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Hang up"; ObjectID = "wUN-39-oOb"; */
+"wUN-39-oOb.normalTitle" = "Termina";
+
+/* Class = "IBUIButton"; normalTitle = "loudspeaker"; ObjectID = "wWN-Jd-jZW"; */
+"wWN-Jd-jZW.normalTitle" = "vivavoce";
+
+/* Class = "IBUITabBarItem"; title = "Recents"; ObjectID = "ybG-OT-6xF"; */
+"ybG-OT-6xF.title" = "Chiamate";
+
+/* Class = "IBUIBarButtonItem"; title = "Account"; ObjectID = "zDf-dg-qFz"; */
+"zDf-dg-qFz.title" = "Account";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "zzb-dI-nXp"; */
+"zzb-dI-nXp.text" = "Label";
