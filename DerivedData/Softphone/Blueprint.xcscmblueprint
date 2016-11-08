@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F95940B7C0B8B92A3BE1A055F8E232600DA0F758",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F95940B7C0B8B92A3BE1A055F8E232600DA0F758" : 9223372036854775807,
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "104FBFBA-9F00-43D9-9D81-4E4AC6CE7E80",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F95940B7C0B8B92A3BE1A055F8E232600DA0F758" : "trunk%20copia\/",
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : "trunk%20copia\/XMPPFramework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Softphone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Softphone.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/XMPPFramework",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anappleapp\/S.Phone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F95940B7C0B8B92A3BE1A055F8E232600DA0F758"
+    }
+  ]
+}
